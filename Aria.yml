@@ -10,7 +10,7 @@ ingredients:
 
 script:
   - cp -r ../aria/* ./usr/bin/;
-  - cp ./usr/bin/data/flutter_assets/assets/aria.png ./aria.png
+  - cp ./usr/bin/data/flutter_assets/assets/icons/aria.png ./aria.png
   -
   - cat > aria.desktop <<\EOF
   - [Desktop Entry]
